@@ -1,5 +1,5 @@
 # Specify the provider and access details
-# sample mahesh maney
+# sample mahesh maney R
 provider "aws" {
  region = "${var.aws_region}"
 }
