@@ -1,4 +1,5 @@
 # Specify the provider and access details
+# sample mahesh maney
 provider "aws" {
  region = "${var.aws_region}"
 }
